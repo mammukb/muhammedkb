@@ -1,0 +1,243 @@
+
+.starter{
+     background:#18354c;
+     width: 100%;
+   height: 73px;
+}
+body{
+     margin: 0px;
+     color: #fff;
+     background: #3776a9;
+}
+.namediv{
+    width: 50%;
+    height: 73px;
+    float: left;
+}
+.index{
+    width: 50%;
+    height: 73px;
+    float: left;
+    overflow: auto;
+}
+.headname{
+    font-family:Verdana, Geneva, sans-serif;
+    font-size: 42px;
+    margin-top: 13px;
+    margin-left: 93px;
+    font-weight: 800;
+}
+.indexele{
+list-style-type: none;
+  margin: 27px;
+  padding: 0;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+
+}
+li a {
+    display: block;
+    color:white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+  }
+  li a:hover {
+    opacity: 0.7;
+  }
+ .li {
+    float: left;
+  }
+.scpic{
+   height: 15px;
+}
+td a{
+   text-decoration: none;
+   color: white;
+}
+.introbody{
+  width: 100%;
+  height: 460px;
+  background: #3776a9;
+}
+.introleft{
+   width: 50%;
+   height: 460px;
+   float: left;
+}
+.introright{
+  width: 50%;
+  height: 460px;
+  float: left;
+}
+.welcome{
+  FONT-FAMILY: cursive;     
+  MARGIN-LEFT: 245px;    
+  PADDING-TOP: 137px;
+    }
+   .job{
+    margin-left: 278px;
+    font-size: 63px;
+    font-weight: bolder;
+    margin-top: -6px
+    }
+    .pic{
+
+      height: 220px;
+      width: max-content;
+      border-radius: 133px;
+      margin-left: 220px;
+      margin-top: 113px;
+  
+    }
+    .about{
+       background: #3776a9;
+       width: 100%;
+       height: 320px;
+       
+    }    
+    .hdabout{
+    color: black;
+    margin-left: 20px;
+    font-size: 50px;
+    font-family: inherit;
+    font-weight: bold;
+    margin-top: 0px;
+    }
+    .para{
+      font-size: 24px;
+    font-weight: 200;
+    font-family: monospace;
+    margin-left: 10px;
+    margin-top: -25px
+    }
+    .mgm{
+    font-size: 20px;
+    margin-left: 70px;
+    }
+    .tkd{
+      font-size: 20px;
+      margin-left: 70px;
+      margin-top: 22px;
+    }
+    .skill{
+      width: 100%;
+      height: 300px;
+      background: #3776a9;
+    }
+    .skillnote{
+      margin-left: 49px;
+    font-size: 25px;
+    font-family: monospace;
+    }
+    .html{
+      width: 25%;
+      height: 155px;
+      float: left;
+    }
+    .css{
+      width: 25%;
+      height: 155px;
+      float: left;
+    }
+    .sql{
+      width: 50%;
+      height: 155px;
+      float: left;
+    }
+    .hdskills{
+      color: black;
+    margin-left: 20px;
+    font-size: 50px;
+    font-family: inherit;
+    font-weight: bold;
+    margin-top: 0px;
+    padding-top: 25px;
+    }
+    .htmlpic{
+      height: 100px;
+      margin-left: 100px;
+  }
+    .csspic{
+      height: 100px;
+    }
+    .sqlpic{
+      height: 100px;
+    }
+    .contact{
+      width: 100%;
+      height: 230px;
+      background: #3776a9;
+    }
+    .contactnote{
+      margin-left: 49px;
+    font-size: 25px;
+    font-family: monospace;
+    }
+    .hdcontact{
+      color: black;
+    margin-left: 20px;
+    font-size: 50px;
+    font-family: inherit;
+    font-weight: bold;
+    margin-top: 0px;
+    padding-top: 11px;
+    }
+    .phone{
+      width: 10%;
+      height: 120px;
+    float: left;
+    }
+    .mail{
+      width: 10%;
+      height: 120px;
+      float: left;
+      
+    }
+    .instflw{
+      width: 10%;
+     height: 120px;
+      float: left;
+      
+    }
+    .fbrq{
+      width: 10%;
+      height: 120px;
+      float: left;
+    }
+    .linkedcnt{
+      width: 10%;
+      height: 120px;
+      float: left;
+    }
+    .contactpic{
+  height: 61px;
+  margin-left: 40px;
+    }
+    .instruct{
+       margin-left: 38px;
+       font-size: 20px;
+       font-family: Sans-serif ;
+       background: #3776a9;
+       border: hidden;
+    }
+    .instruct:hover{
+       
+       background: #18354c;
+    }
+    .footer{
+       width: 100%;
+       height: 100px;
+       background:#798dab;
+       margin-top: -1px;
+       float: left;
+
+    }
+    .cp-text{
+       color: rgba(0,0,0,.7); text-shadow: 0 1px rgba(255, 255, 255, 0.1);
+       margin-top: 0px;
+       padding-top: 30px;
+       padding-left: 585px;
+
+      }
